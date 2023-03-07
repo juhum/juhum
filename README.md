@@ -1,7 +1,7 @@
 Hi there 👋 My name is Adam
 =====================
 
-I am currently a second-year undergraduate student of Computer Science.
+I am currently a second-year undergraduate student of Computer Science. I've been learning programming for 3 years.
 
 * 🧠 I’m currently learning Java, Python, Javascript, C++ but I focus mainly on Java and its frameworks.
 * ✉️  You can contact me at [kuszczynski.adam@gmail.com](mailto:kuszczynski.adam@gmail.com)
