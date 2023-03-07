@@ -1,4 +1,4 @@
-Hi there 👋 My name is Adam
+Hi there 👋 my name is Adam
 =====================
 
 I am currently a second-year undergraduate student of Computer Science. I've been learning to code for 3 years.
